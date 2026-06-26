@@ -162,3 +162,5 @@ The full system lives in [DEVFLOW-FINANCE](https://github.com/SNAPKITTYWEST/DEVF
 **[collectivekitty.com](https://collectivekitty.com) · [DEVFLOW-FINANCE](https://github.com/SNAPKITTYWEST/DEVFLOW-FINANCE) · [Discord](https://discord.gg/dugymT3rj)**
 
 </div>
+
+![](https://sovereign-analytics.snapkittywest.workers.dev/canary/myapplication)
